@@ -28,7 +28,6 @@
   <a href="https://eagely.dev" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&label=&color=101010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="mailto:artemiy.smirnov@proton.me" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=9F64E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://discordapp.com/users/415132870252822539" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="https://www.linkedin.com/in/artemiy-smirnov-422482262" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
 
